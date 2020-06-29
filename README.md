@@ -38,8 +38,27 @@ Helping Maria, the Chief Data Scientist for a city school system, analyze inform
 
 ## Challenge Summary
 - Top 5 and Bottom 5 Performing Schools, Based on Overall Passing Rate
+
+![](Data-Analysis/top-5-schools-challenge.PNG)
+
+![](Data-Analysis/bottom-5-schools-challenge.PNG)
+
 - Average Math Score Received by Students in each Grade Level at each School
+
+![](Data-Analysis/math-scores-by-grade-challenge.PNG)
+
 - Average Reading Score Received by Students in each Grade Level at each School
+
+![](Data-Analysis/reading-scores-by-grade-challenge.PNG)
+
 - School Performance Based on the Budget per Student
+
+![](Data-Analysis/performance-based-on-budget-challenge.PNG)
+
 - School Perfrormance Based on the School Size
+
+![](Data-Analysis/performance_based_on_size-challenge.PNG)
+
 - School Performance Based on the Type of School 
+
+![](Data-Analysis/performance_based_on_type-challenge.PNG)
