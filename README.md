@@ -8,11 +8,17 @@ Helping Maria, the Chief Data Scientist for a city school system, analyze inform
 - Software: Python 3.7.6, Conda 4.8.3, Pandas, Jupyter Notebook
 
 ## Summary
+Based on the data and the tables below, it is observed that the top performing schools are charter type schools as opposed to district schools. The charter schools had an overall passing percentage of about 89% to 91% while district schools had a passing percentage of about 52% to 55%. Looking closer at the summary tables, an increase in spending per student did not increase the overall passing percentage of students. However, it can be seen that the large schools had the lowest overall passing percentage, and it can be noted that all district schools are classified as a large school size. 
+
 - Top 5 and Bottom 5 Performing Schools, Based on Overall Passing Rate
 
 ![](Data-Analysis/top-5-schools.PNG)
 
 ![](Data-Analysis/bottom-5-schools.PNG)
+
+- District Summary
+
+![](Data-Analysis/district-summary.PNG)
 
 - Average Math Score Received by Students in each Grade Level at each School
 
@@ -38,11 +44,23 @@ Helping Maria, the Chief Data Scientist for a city school system, analyze inform
 The grades of the ninth graders at Thomas High School have been changed. The Thomas High School ninth grade math and reading scores will be replaced with NaN. The effects of the changes in the data will then be analyzed. 
 
 ## Challenge Summary
+How is th district summary affected? 
+How is the school summary affected?
+How does replacing the night graders' math and reading scores affect Thomas High Schools' performance, relative to the other schools? 
+How are the Math and Reading scores by grade affected?
+How are the scores by school spending affected?
+How are the scores by school size affected?
+How are the scores by school type affected?
+
 - Top 5 and Bottom 5 Performing Schools, Based on Overall Passing Rate
 
 ![](Data-Analysis/top-5-schools-challenge.PNG)
 
 ![](Data-Analysis/bottom-5-schools-challenge.PNG)
+
+- District Summary
+
+![](Data-Analysis/district-summary-challenge.PNG)
 
 - Average Math Score Received by Students in each Grade Level at each School
 
