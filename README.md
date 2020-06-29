@@ -9,14 +9,20 @@ Helping Maria, the Chief Data Scientist for a city school system, analyze inform
 
 ## Summary
 - Top 5 and Bottom 5 Performing Schools, Based on Overall Passing Rate
-
-![](Data Analysis/PyCitySchools/top_5_schools.png)
 - Average Math Score Received by Students in each Grade Level at each School
 - Average Reading Score Received by Students in each Grade Level at each School
 - School Performance Based on the Budget per Student
 - School Perfrormance Based on the School Size
 - School Performance Based on the Type of School 
 
+## Tables
+
 ## Challenge Overview
 
 ## Challenge Summary
+- Top 5 and Bottom 5 Performing Schools, Based on Overall Passing Rate
+- Average Math Score Received by Students in each Grade Level at each School
+- Average Reading Score Received by Students in each Grade Level at each School
+- School Performance Based on the Budget per Student
+- School Perfrormance Based on the School Size
+- School Performance Based on the Type of School 
