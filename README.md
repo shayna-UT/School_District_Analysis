@@ -9,6 +9,8 @@ Helping Maria, the Chief Data Scientist for a city school system, analyze inform
 
 ## Summary
 - Top 5 and Bottom 5 Performing Schools, Based on Overall Passing Rate
+
+![Data Analysis/top_5_schools.PNG]
 - Average Math Score Received by Students in each Grade Level at each School
 - Average Reading Score Received by Students in each Grade Level at each School
 - School Performance Based on the Budget per Student
