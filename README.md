@@ -35,6 +35,7 @@ Helping Maria, the Chief Data Scientist for a city school system, analyze inform
 ![](Data-Analysis/performance_based_on_type.PNG)
 
 ## Challenge Overview
+The grades of the ninth graders at Thomas High School have been changed. The Thomas High School ninth grade math and reading scores will be replaced with NaN. The effects of the changes in the data will then be analyzed. 
 
 ## Challenge Summary
 - Top 5 and Bottom 5 Performing Schools, Based on Overall Passing Rate
