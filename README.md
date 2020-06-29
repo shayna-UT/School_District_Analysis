@@ -44,13 +44,7 @@ Based on the data and the tables below, it is observed that the top performing s
 The grades of the ninth graders at Thomas High School have been changed. The Thomas High School ninth grade math and reading scores will be replaced with NaN. The effects of the changes in the data will then be analyzed. 
 
 ## Challenge Summary
-How is th district summary affected? 
-How is the school summary affected?
-How does replacing the night graders' math and reading scores affect Thomas High Schools' performance, relative to the other schools? 
-How are the Math and Reading scores by grade affected?
-How are the scores by school spending affected?
-How are the scores by school size affected?
-How are the scores by school type affected?
+After updating the data so that the Thomas High School 9th graders' math and reading scores are NaN, the % Passing Math and % Passing Reading each dropped by 1%, resulting in the % Overall Passing to drop by 1% on a ditstrict level. Focusing in on Thomas High School, the changes in the dataset have knocked Thomas High School from being second ranked in the district to being ranked at No. 8.  In addition, the % Passing Math dropped to 67% and the % Passing Reading dropped to 70%. The passing percentages were drastically affected since the ninth graders make up 28% of the total students at Thomas High School, and are no longer being included in the passing percentage calculations. However the scores by school spending, size, and type are unaffected. 
 
 - Top 5 and Bottom 5 Performing Schools, Based on Overall Passing Rate
 
